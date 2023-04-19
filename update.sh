@@ -1,2 +1,2 @@
 git pull
-cp content/* ~/printer_data/config
+cp -r content/* ~/printer_data/config
