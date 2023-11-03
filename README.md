@@ -25,3 +25,5 @@ When an update is available, update the repo folder through Mainsail/Flkuidd the
 
 <pre>cd ~/klipper_macros
 ./update.sh</pre>
+
+Restart the firmware for the changes to take effect.
